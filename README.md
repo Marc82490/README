@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 <p align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc82490&theme=onedark&layout=compact&hide_border=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marczalik&theme=onedark&layout=compact&hide_border=true" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=marc82490&count_private=true&theme=onedark&show_icons=true&hide=stars,issues&hide_border=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=marczalik&count_private=true&theme=onedark&show_icons=true&hide=stars,issues&hide_border=true" />
   </a>
   </a>
  </p>
