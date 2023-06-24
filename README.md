@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on OFRAK. [Check it out!](https://github.com/redballoonsecurity/ofrak)
-- 🌱 I’m currently learning compilers, Haskell.
+- 🔭 I have worked on OFRAK. [Check it out!](https://github.com/redballoonsecurity/ofrak)
+- 🌱 I’m currently learning compilers, Haskell, Rust.
 - 🤔 Random, useless project ideas:
   - A recursively defined dictionary.
 <!--
